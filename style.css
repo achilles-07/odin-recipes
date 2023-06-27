@@ -17,22 +17,35 @@ h1 {
     margin: 10px 10px;
 }
 
+.title{
+    height: 8vh;
+}
+
 h2{
     color: #DAFFFB;
     display: block;
     /* padding-right: 30%; */
     font-size: 40px;
-    margin: 10px 0;
+    margin: 10px;
     /* margin: 10px 10px; */
     text-align: center;
+    /* vertical-align: middle; */
 }
 
 nav{
     /* display: inline; */
-    height: 8nvh;
+    height: 8vh;
 }
 
-a {
+nav a{
+    color: #DAFFFB;
+    font-size: 25px;
+    margin-left: 180px;
+    /* margin-right: 5px; */
+    /* padding: 10px; */
+    text-decoration: none;
+}
+.list a {
     font-size: 25px;   
     padding-left: 150px; 
     color: #DAFFFB;
@@ -45,10 +58,62 @@ img {
 }
 
 .list{
-    background-color: aliceblue;
+    background-color: #DAFFFB;
 }
 
-div img {
+div>img{
     height: 300px;
     width: 300px;
+    margin-left: auto;
+    margin-right: auto;
 }
+h3{
+    color: #001C30;
+}
+.list a {
+    color: #176B87;
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+}
+
+a p{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr{
+    width: 70%;
+    margin: auto;
+}
+
+#contact{
+    /* background-color: #001C30; */
+    height: 20vh;
+    
+}
+
+#contact>h3{
+    color: #DAFFFB;
+    font-size: 30px;
+    margin: 10vh auto 3vh;
+    text-decoration: none;
+    text-align: center;
+}
+
+#contact p,#contact a{
+    color: #DAFFFB;
+    font-size: 25px;
+    text-align: center;
+}
+
+footer{
+    margin-bottom: 0;
+    padding-bottom: 0;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 25px;
+}
+
