@@ -8,4 +8,4 @@ You might want to stop here itself and go do better things in life.
 
 Thanks for dropping by!
 
-If you're still here then you surely got nothing to do. You are adamant about wasting your time. Tathastu - <> 
+If you're still here then you surely got nothing to do. You are adamant about wasting your time. Tathastu - https://achilles-07.github.io/odin-recipes/
